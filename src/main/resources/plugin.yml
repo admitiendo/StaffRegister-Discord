@@ -1,0 +1,4 @@
+name: StaffLogs
+version: '${project.version}'
+main: dev.admitiendo.stafflogs.StaffLog
+api-version: '1.20'
